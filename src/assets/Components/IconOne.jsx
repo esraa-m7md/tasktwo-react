@@ -1,5 +1,5 @@
 import iconOne from '../Group 9.svg';
-import { style } from "../style";
+import { style } from "../Style";
 
 export default function IconOne() {
     return(

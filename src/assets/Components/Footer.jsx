@@ -1,6 +1,6 @@
 
 import logoImg from "../myteam 2.svg"
-import { style } from "../style";
+import { style } from "../Style";
 import { RiFacebookFill } from "react-icons/ri";
 import { FaPinterest } from "react-icons/fa";
 import { FaTwitter } from "react-icons/fa";
