@@ -1,0 +1,20 @@
+<svg width="1440" height="745" viewBox="0 0 1440 745" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_3_9966)">
+<rect width="1440" height="745" fill="#004047"/>
+<mask id="mask0_3_9966" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="1440" height="745">
+<rect width="1440" height="745" fill="white"/>
+</mask>
+<g mask="url(#mask0_3_9966)">
+<rect width="100" height="100" transform="matrix(1 0 0 -1 0 100)" fill="#002529"/>
+<path d="M47 100H147V96H47V100ZM47 92H147V88H47V92ZM47 84H147V80H47V84ZM47 76H147V72H47V76ZM47 68H147V64H47V68ZM47 60H147V56H47V60Z" fill="#79C8C7"/>
+<rect width="100" height="100" transform="matrix(1 0 0 -1 1340 745)" fill="#2C6269"/>
+<path d="M1340 645C1284.77 645 1240 689.772 1240 745C1240 800.228 1284.77 845 1340 845C1395.23 845 1440 800.228 1440 745C1440 689.772 1395.23 645 1340 645ZM1340 712C1358.23 712 1373 726.775 1373 745C1373 763.225 1358.23 778 1340 778C1321.77 778 1307 763.225 1307 745C1307 726.775 1321.77 712 1340 712Z" fill="#012F34"/>
+<path d="M1340 745H1440V741H1340V745ZM1340 737H1440V733H1340V737ZM1340 729H1440V725H1340V729ZM1340 721H1440V717H1340V721ZM1340 713H1440V709H1340V713ZM1340 705H1440V701H1340V705Z" fill="#79C8C7"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_3_9966">
+<rect width="1440" height="745" fill="white"/>
+</clipPath>
+</defs>
+</svg>
